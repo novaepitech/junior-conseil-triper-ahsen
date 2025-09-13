@@ -416,3 +416,28 @@ main {
 .footer-column li{
     margin-bottom: 8px;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    align-items: center;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: rgb(6, 111, 248);
+}
+
+.activites-link{
+    color: #555 !important;
+}
+.sinscrire-link{
+    font-weight: bold;
+    
+}
